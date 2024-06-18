@@ -12,6 +12,8 @@
 
 **https://github.com/DataScienceRelatedStuff/PowerBI-Netflix**
 
+**https://github.com/DataScienceRelatedStuff/PowerBI-Zorro**
+
 
 
 
