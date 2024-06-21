@@ -1,18 +1,18 @@
 # A. [Power BI]
 ## Exercices
+**https://github.com/DataScienceRelatedStuff/PowerBI-Netflix**
+
+**https://github.com/DataScienceRelatedStuff/PowerBI-Zorro**
+
+**https://github.com/DataScienceRelatedStuff/PowerBI-Lakes.git**
+
 **https://github.com/DataScienceRelatedStuff/PowerBI-CookieBusiness.git**
 
 **https://github.com/DataScienceRelatedStuff/PowerBI-HealthcarePatientslist.git**
 
-**https://github.com/DataScienceRelatedStuff/PowerBI-Lakes.git**
-
 **https://github.com/DataScienceRelatedStuff/PowerBI-NCAA.git**
 
 **https://github.com/DataScienceRelatedStuff/PowerBI-Transport4London.git**
-
-**https://github.com/DataScienceRelatedStuff/PowerBI-Netflix**
-
-**https://github.com/DataScienceRelatedStuff/PowerBI-Zorro**
 
 
 
