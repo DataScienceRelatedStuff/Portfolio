@@ -80,6 +80,10 @@
 **https://github.com/DataScienceRelatedStuff/Fabric-PerformExploratoryAnalytics.git**
 
 
+## l. Rest API
+**https://github.com/DataScienceRelatedStuff/Fabric-Rest-API**
+
+
 
 
 # C. [SQL]
