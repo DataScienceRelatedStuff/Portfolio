@@ -83,6 +83,9 @@
 ## l. Rest API
 **https://github.com/DataScienceRelatedStuff/Fabric-Rest-API**
 
+## m. Extract data (webactivity) using rest api and load the json file into a lakehouse
+**https://github.com/DataScienceRelatedStuff/Fabric-Webactivity-json-output**
+
 
 
 
