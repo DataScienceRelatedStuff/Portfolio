@@ -2,7 +2,9 @@
 ## Exercices
 **https://github.com/DataScienceRelatedStuff/PowerBI-Netflix**
 
-**https://github.com/DataScienceRelatedStuff/Fabric-EndToEnd** - [IN FABRIC: Medaillon architecture, exclusively using Notebooks, creating Semantic model], exported to desktop: .pbix & .pbip files created.
+
+**https://github.com/DataScienceRelatedStuff/Fabric-EndToEnd**
+[IN FABRIC: Medaillon architecture, exclusively using Notebooks, creating Semantic model], exported to desktop: .pbix & .pbip files created.
 
 **https://github.com/DataScienceRelatedStuff/PowerBI-Zorro**
 
