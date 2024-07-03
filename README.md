@@ -50,7 +50,7 @@
 
 ## e. Medaillon Architecture
 **https://github.com/DataScienceRelatedStuff/Fabric-MedaillonArchitecture.git**
-**https://github.com/DataScienceRelatedStuff/Fabric-EndToEnd** - Medaillon architecture, exclusively using Notebooks, creating Semantic model, desktop files created (.pbix & .pbip)
+**https://github.com/DataScienceRelatedStuff/Fabric-EndToEnd** #### Medaillon architecture, exclusively using Notebooks, creating Semantic model, desktop files created (.pbix & .pbip)
 
 ## f. Version control
 **https://github.com/DataScienceRelatedStuff/Fabric-VersionControl.git**
