@@ -2,6 +2,8 @@
 ## Exercices
 **https://github.com/DataScienceRelatedStuff/PowerBI-Netflix**
 
+****https://github.com/DataScienceRelatedStuff/Fabric-EndToEnd** - [IN FABRIC: Medaillon architecture, exclusively using Notebooks, creating Semantic model], exported to desktop: .pbix & .pbip files created.
+
 **https://github.com/DataScienceRelatedStuff/PowerBI-Zorro**
 
 **https://github.com/DataScienceRelatedStuff/PowerBI-Lakes.git**
@@ -46,7 +48,7 @@
 
 ## e. Medaillon Architecture
 **https://github.com/DataScienceRelatedStuff/Fabric-MedaillonArchitecture.git**
-
+**https://github.com/DataScienceRelatedStuff/Fabric-EndToEnd** - Medaillon architecture, exclusively using Notebooks, creating Semantic model, desktop files created (.pbix & .pbip)
 
 ## f. Version control
 **https://github.com/DataScienceRelatedStuff/Fabric-VersionControl.git**
@@ -85,6 +87,8 @@
 
 ## m. Extract data (webactivity) using rest api and load the json file into a lakehouse
 **https://github.com/DataScienceRelatedStuff/Fabric-Webactivity-json-output**
+
+
 
 
 
