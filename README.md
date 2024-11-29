@@ -1,5 +1,7 @@
 # A. [Power BI]
 ## Exercices
+**https://github.com/DataScienceRelatedStuff/Power-BI-Healthcare**
+
 **https://github.com/DataScienceRelatedStuff/PowerBI-Netflix**
 
 
