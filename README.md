@@ -98,7 +98,14 @@
 
 
 # C. [SQL]
+## a. SQL exercices
 **https://github.com/DataScienceRelatedStuff/SQL.git**
+
+## b. SQL - Datawarehouse project
+**https://github.com/DataScienceRelatedStuff/sql-data-warehouse-project.git**
+
+## c. SQL - Analytics project
+**https://github.com/DataScienceRelatedStuff/sql-data-analytics-project.git**
 
 
 
