@@ -77,7 +77,6 @@
 **https://github.com/DataScienceRelatedStuff/Fabric-ExerciseFabric-PowerBI.git**
 
 
-
 ## j. Validation
 **https://github.com/DataScienceRelatedStuff/Fabric-Validation.git**
 
@@ -95,8 +94,6 @@
 
 
 
-
-
 # C. [SQL]
 ## a. SQL exercices
 **https://github.com/DataScienceRelatedStuff/SQL.git**
@@ -106,7 +103,6 @@
 
 ## c. SQL - Analytics project
 **https://github.com/DataScienceRelatedStuff/sql-data-analytics-project.git**
-
 
 
 
